@@ -17,7 +17,6 @@ import com.lab.moviedb.R;
 import com.lab.moviedb.adapter.NowPlayingAdapter;
 import com.lab.moviedb.helper.ItemClickSupport;
 import com.lab.moviedb.model.NowPlaying;
-import com.lab.moviedb.view.activities.NowPlayingActivity;
 import com.lab.moviedb.viewmodel.MovieViewModel;
 
 /**
